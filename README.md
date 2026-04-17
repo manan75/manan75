@@ -43,39 +43,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manan75&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manan75&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=manan75&theme=tokyonight)
-
-</div>
-
 ---
 
 ## 🌱 Currently Learning
 - Data Structures & Algorithms  
-- Machine Learning  
+- AI system and LLMs
 - System Design Basics  
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: YOUR_LINK  
-- Portfolio: YOUR_LINK  
+- LinkedIn: https://www.linkedin.com/in/manan-kapkar/ 
 
 ---
 
