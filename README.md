@@ -8,7 +8,7 @@
 📈 Improving Data Structures & Algorithms
 🤖 Exploring AI and building practical applications
 🎯 Goal: Crack a strong SDE role & become a solid software engineer  
-
+Looking for Open-source contribution!
 </div>
 
 ---
