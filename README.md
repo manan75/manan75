@@ -2,13 +2,14 @@
 
 # Hi 👋, I'm Manan  
 ### 🚀 CSE Student | Full Stack Developer | AI Enthusiast  
+### Looking for Open-source contribution!
 
 💡 Passionate about building scalable apps and solving real-world problems  
 🔧 Currently working on full-stack projects with real-world architecture and DevOps 
 📈 Improving Data Structures & Algorithms
 🤖 Exploring AI and building practical applications
 🎯 Goal: Crack a strong SDE role & become a solid software engineer  
-Looking for Open-source contribution!
+
 </div>
 
 ---
